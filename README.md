@@ -2,6 +2,9 @@
 
 This repository contains a Power BI dashboard visualizing key metrics for a hospitality business. The dashboard provides insights into booking trends, revenue, occupancy, and other KPIs.
 
+# Dashboard
+<img src="Byko_Hospitality.png">
+
 # About 
 This dashboard was developed to empower data-driven decision-making for hospitality managers through insightful visual analytics.
 
