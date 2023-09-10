@@ -5,6 +5,8 @@ This repository contains a Power BI dashboard visualizing key metrics for a hosp
 # Dashboard
 <img src="Byko_Hospitality.png">
 
+**Dashboard Link:** https://app.powerbi.com/links/KN9ooioltl?ctid=68f381e3-46da-47b9-ba57-6f322b8f0da1&pbi_source=linkShare
+
 # About 
 This dashboard was developed to empower data-driven decision-making for hospitality managers through insightful visual analytics.
 
